@@ -4,4 +4,7 @@
 4. Call and place order
 5. Pay for Burger
 6. Wait for delivery
-7. Eat burger
+   a. order is right
+   b. order is wrong
+7. Order is right, enjoy Burger
+8. Order is wrong, call back and request correction   
