@@ -1,0 +1,4 @@
+1. Decide on restaurant
+2. Look at online menu
+3. Choose Burger
+4. Call and place order
