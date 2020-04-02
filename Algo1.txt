@@ -2,3 +2,6 @@
 2. Look at online menu
 3. Choose Burger
 4. Call and place order
+5. Pay for Burger
+6. Wait for delivery
+7. Eat burger
